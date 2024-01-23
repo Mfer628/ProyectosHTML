@@ -1,0 +1,35 @@
+{
+    "Nombre": "Fernanda", 
+    "Apellido": "Flores" ,
+    "Lenguajes": ["Español","Ingles","Frances"],
+    "Edad": 20,
+    "experiencia":[
+        {
+            "empresa": "Mcdonalds",
+            "antiguedad": 5
+        },
+        {
+            "empresa": "Google",
+            "antiguedad": 3
+        }
+    ],
+    "Direccion" : {
+        "Calle": "Rio Nilo",
+        "Numero": 5050,
+        "Colonia": "NY",
+        "pago_agua":[
+            {
+                "id": 0,
+                "fecha": "24/03/2023"
+            },
+            {
+                "id": 1,
+                "fecha": "24/03/2018"
+            },
+            {
+                "id": 2,
+                "fecha": "24/03/2050"
+            }
+        ]
+    }
+}

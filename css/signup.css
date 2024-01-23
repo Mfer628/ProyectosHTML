@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.img-con{
+    background-image:url("/Imagenes/Secundaria.jpg") ;
+    height: 50px;
+    width: 150px;
+
+}
+header,nav,section,footer{
+width: 90%;
+max-width: 1000px;
+margin: 20px auto;
+background-color: red;
+
+}
+header h1{
+    font-size: 20px;
+    text-align: center;
+    line-height: 50px;
+}
+nav {
+    width: 90%;
+    margin: auto;
+    background-color: rgb(113, 225, 113);
+    height: 40px;
+    text-align: center;
+}
+nav h2{
+    font-size: 20px;
+    
+}
+nav ul{
+    list-style: none;
+
+}
+nav ul li{
+    float:left;
+}
+nav ul li  a {
+    padding: 10px 80px ;
+    display: block;
+    color: black;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    background:green;
+}
+.form-register{
+    width: 400px;
+    background: blanchedalmond ;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    font-family: "Arial";
+    color:white;
+    text-align: center;
+}
+.form-register h4{
+    font-size: 22px;
+}
+.controls{
+    width: 100%;
+    
+}

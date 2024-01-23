@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body {
+        background: #092236;
+        overflow: hidden;
+    }
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: white;
+}
+.controles{
+    text-align: center;
+
+}
+img{
+    width: 350px;
+    height: 350px;
+}
+#anterior{
+    margin-right: 20px;;
+    background-color: rgb(182, 62, 62);
+}
+#siguiente{
+    margin-left: 20px;
+    background-color: rgb(182, 62, 62);
+}
